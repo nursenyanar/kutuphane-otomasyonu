@@ -1,6 +1,11 @@
 # Kütüphane Otomasyonu
 Kütüphane web projesi; ana sayfa, hakkımızda, kitaplar gibi bölümlerden oluşmaktadır. Kullanıcıların kayıt olabileceği ve giriş yapabileceği bir sistemdir. Kitap listeleme, ekleme gibi işlemler yapılmaktadır.
 
+# Image
+
+![Giris](/images/login.jpg)
+![Hakkimizda](/images/hakkimizda.jpg)
+![Kitaplar](/images/kitap.jpg)
 
 # Installation
 
@@ -17,9 +22,8 @@ Projeyi çalıştırmak için:
 ruby mainpro.rb
 ```
 
-# Image
+# Contributing
+Pull requestler kabul edilir. 
 
-![Giris](/images/login.jpg)
-![Hakkimizda](/images/hakkimizda.jpg)
-![Kitaplar](/images/kitap.jpg)
-
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
