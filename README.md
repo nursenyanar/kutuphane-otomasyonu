@@ -1,4 +1,5 @@
 # Kütüphane Otomasyonu
+Kütüphane web projesi; ana sayfa, hakkımızda, kitaplar gibi bölümlerden oluşmaktadır. Kullanıcıların kayıt olabileceği ve giriş yapabileceği bir sistemdir. Kitap listeleme, ekleme gibi işlemler yapılmaktadır.
 
 
 # Installation
